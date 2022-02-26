@@ -10,16 +10,22 @@
 "cost_cheese_star3":5.0,
 "cost_secret":1000,
 "cost_lifeup":1,
-"collectable_radius_level1":1,
-"collectable_radius_level2":2,
-"collectable_radius_level3":3,
-"collectable_radius_level4":4,
-"player_speed_level1":0.8,
-"player_speed_level2":1,
-"player_speed_level3":1.2,
-"player_speed_level4":1.5,
-"player_dig_speed_level1":1,
-"player_dig_speed_level2":2,
-"player_dig_speed_level3":3,
-"player_dig_speed_level4":4
+"list_collectable_radius_level":[
+    1,
+    2,
+    3,
+    4
+],
+"list_player_speed_level":[
+    0.8,
+    1,
+    1.2,
+    1.5
+],
+"list_player_dig_speed_level":[
+    1,
+    2,
+    3,
+    4
+]
 }
