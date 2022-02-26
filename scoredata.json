@@ -1,0 +1,13 @@
+{
+"cost_dangersituation":2,
+"cost_killed_cat":20,
+"cost_catched_mouse":-20,
+"cost_trappedcat":5,
+"cost_timer":30,
+"cost_cheese":100,
+"cost_cheese_combo_scale":0.2,
+"cost_cheese_star2":3.0,
+"cost_cheese_star3":5.0,
+"cost_secret":1000,
+"cost_lifeup":1
+}
