@@ -1,13 +1,13 @@
 {
-"cost_dangersituation":2,
-"cost_killed_cat":20,
+"cost_dangersituation":5,
+"cost_killed_cat":30,
 "cost_catched_mouse":-20,
 "cost_trappedcat":5,
 "cost_timer":30,
 "cost_cheese":100,
 "cost_cheese_combo_scale":0.2,
-"cost_cheese_star2":3.0,
-"cost_cheese_star3":5.0,
+"cost_cheese_star2":2.0,
+"cost_cheese_star3":3.0,
 "cost_secret":1000,
 "cost_lifeup":1,
 "list_collectable_radius_level":[
@@ -17,8 +17,8 @@
     4
 ],
 "list_player_speed_level":[
-    0.8,
     1,
+    1.05,
     1.1,
     1.2
 ],
@@ -29,3 +29,4 @@
     4
 ]
 }
+
